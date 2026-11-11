@@ -1,0 +1,21 @@
+{
+  "name": "tms-enterprise",
+  "version": "1.0.0",
+  "description": "TMS Pro Enterprise - Task Progress & Accountability System",
+  "type": "module",
+  "scripts": {
+    "start": "node dev.js",
+    "dev": "node dev.js",
+    "server": "npm --prefix server start",
+    "client": "npm --prefix client run dev"
+  },
+  "keywords": [
+    "task-management",
+    "mern",
+    "socket.io",
+    "accountability",
+    "kanban"
+  ],
+  "author": "TMS Team",
+  "license": "ISC"
+}
